@@ -2,7 +2,11 @@
 
 ## Contacts
 
-ph: +7(923) 745-37-04
+phone: +7(923) 745-37-04
+
+email: d.gapeeva@gmail.com
+
+address: Russia, Novosibirsk
 
 ## About me
 
@@ -12,7 +16,9 @@ I started stydying Frontend in April 2020. Started learning with HTML & CSS, the
 
 ### July 2013 — August 2019
 
-"Victory Baltia" Russia, Kaliningrad
+"Victory Baltia"
+
+Russia, Kaliningrad
 
 Manager, assortment management department.
 
@@ -20,7 +26,9 @@ Pricing, work with promotions, work with the assortment matrix of goods, SAP pro
 
 ### November 2008 — August 2013
 
-"Vitamed" Russia, Novosibirsk
+"Vitamed"
+
+Russia, Novosibirsk
 
 Manager, purchase department.
 
