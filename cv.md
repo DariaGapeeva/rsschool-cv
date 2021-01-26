@@ -10,7 +10,7 @@ address: Russia, Novosibirsk
 
 ## About me
 
-I started stydying Frontend in April 2020. Started learning with HTML & CSS, then add JavaScript, then added React and Redux.I am very interested in this theme and have a greate desire to develop in the IT field. Now I take all of my time for stydy.
+I started stydying Frontend in April 2020. Started learning with HTML & CSS, then add JavaScript, then added React and Redux.I am very interested in this subject and have a greate desire to develop in the IT field. Now I take all of my time for study.
 
 ## Work experience
 
